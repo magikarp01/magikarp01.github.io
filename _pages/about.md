@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Phillip, an undergraduate student at the University of Maryland. I'm currently a quant trading intern at Jane Street, and I work on AI safety and alignment during the school year.
+Hi! I'm Phillip, an undergraduate student at the University of Maryland. I work on AI safety and alignment, and this past summer I was a quant trading intern at Jane Street.
 
 My current research interests are a mixture of LLM adversarial robustness and interpretability. In adversarial robustness, I'm working on latent adversarial training to prevent jailbreaks and backdoors and to unlearn dangerous knowledge. In interpretability, I'm thinking about how to use advances in model understanding for more robust unlearning, anomaly detection, and model feature steering. 
 
